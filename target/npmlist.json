@@ -1,0 +1,1 @@
+{"version":"1.0.0","name":"pw_test_project","dependencies":{"allure-playwright":{"version":"2.0.0-beta.18"},"dotenv":{"version":"16.0.1"}}}
