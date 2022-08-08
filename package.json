@@ -11,6 +11,7 @@
     "@playwright/test": "^1.23.4"
   },
   "dependencies": {
+    "allure-playwright": "^2.0.0-beta.18",
     "dotenv": "^16.0.1"
   }
 }
