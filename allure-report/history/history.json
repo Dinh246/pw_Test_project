@@ -1,0 +1,1 @@
+{"chromium tests\\bt_06.spec.ts verify API has ID = 1000000072213752":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"fcfa467fd0a167e9","status":"passed","time":{"start":1659951255679,"stop":1659951256848,"duration":1169}}]}}
