@@ -1,1 +1,1 @@
-[{"uid":"c659d853d97f7d54","name":"verify API has ID = 1000000072213752","time":{"start":1659954933045,"stop":1659954937978,"duration":4933},"status":"failed","severity":"normal"}]
+[{"uid":"b1e3b63adaff03da","name":"verify API has ID = 1000000072213752","time":{"start":1660027476170,"stop":1660027477022,"duration":852},"status":"passed","severity":"normal"}]

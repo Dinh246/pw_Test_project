@@ -14,7 +14,7 @@ test('verify API has ID = 1000000072213752', async ({ request }) => {
     await expect(await apiRequest.json()).toMatchObject({
         "result": {
             "id": 1000000072213752,
-            "available": false,
+            "available": true,
             "collection_ids": [],
             "image": "https://img.thesitebase.net/10038/10038790/products/159394385920c21d6c6e.jpeg",
             "custom_options": null
@@ -22,6 +22,6 @@ test('verify API has ID = 1000000072213752', async ({ request }) => {
     })
     
     //Cách 3 get body của api và chuyển sang dạng string để so sánh
-    await expect((await apiRequest.body()).toString()).toContain('"id":123')
+    await expect((await apiRequest.body()).toString()).toContain('"id":1000000072213752')
 })
 

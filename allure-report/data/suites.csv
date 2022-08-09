@@ -1,2 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"failed","Mon Aug 08 17:35:33 ICT 2022","Mon Aug 08 17:35:37 ICT 2022","4933","chromium","tests\bt_06.spec.ts","","","","verify API has ID = 1000000072213752",""
+"passed","Tue Aug 09 13:44:36 ICT 2022","Tue Aug 09 13:44:37 ICT 2022","852","chromium","tests\bt_06.spec.ts","","","","verify API has ID = 1000000072213752",""
